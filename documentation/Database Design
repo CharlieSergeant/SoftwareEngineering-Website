@@ -1,0 +1,5 @@
+We chose to use MySQL 5.5.62  as our database. PhpMyAdmin 4.9.0.1 and MySQL Workbench 8.0.18 are our database management tools. 
+Totally, we have four tables. Three of them are for storing three compnaies’ data and the other one is for the using information.
+The company tables use date as their primary keys and have all the statistic information required. 
+The user table has its own id as its primary key, which could be a better foreign key than email because matching emails would take much more time than matching  integers. 
+The passwords stored in database are encrypted by secured hash functions.

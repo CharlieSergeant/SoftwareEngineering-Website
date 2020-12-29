@@ -1,0 +1,11 @@
+User:	People who have privilege to access iex.yefangzhou1997.monster
+Log in:	The user should have the correct email and password to get the session for authentication. 
+View main page:	The user can choose the functions they want in this page.
+View history:	The user can view the history records of the stocks.
+View basic statistic information:	The user can view the maximum, minimum, average, median of close during any period they want. 
+View candlestick charts:	The user can view the candlestick charts of a stock during any period they want.
+Log out:	The user can destroy the session if they want.
+
+1.	If the user inputs the correct password, then login.php will return a session.
+2.	The user can call view() to open view.php to input the query information.
+3.	As long as viewAJAX.php gets the info, it fetch corresponding result from API.php, which will be translated to a graph format latter by viewAJAX.php.

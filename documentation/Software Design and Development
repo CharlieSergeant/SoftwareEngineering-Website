@@ -1,0 +1,5 @@
+The system design is like a common website, the users need to log in to use the functions. 
+In other words, the user should use a web browser to visit our website and log in to choose the functions he or she wanted to use on the main page. 
+There are three main functions: viewing statistical information, viewing charts, and viewing history. 
+As for the software development, Fangzhou would implement all the functions at the beginning and make sure his methods would work, then he would assign tasks to each team member. 
+The benefit was that Fangzhou could solve all the problems the team members would mee and the team members could learn how to do their jobs very quickly.

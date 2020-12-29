@@ -1,0 +1,6 @@
+We use Postman to test our restful APIs. We prepared different cases, which include both right data sets and wrong data sets. 
+The restful APIs pass all the tests. 
+For the authentication system, we use both correct password and wrong passwords to test. 
+The tester also failed to enter the system without authentication.
+The tester also prepared many date sets to test the functions. 
+The system always return the correct results supposed to be generated.

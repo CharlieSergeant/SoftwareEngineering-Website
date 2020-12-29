@@ -1,0 +1,5 @@
+We designed a four-layer architecture to implement our project, which are User Client Layer, Web Service Layer, API Layer and Database Layer.
+User Client should be running on users’ personal computers, and the other three layers is running on our server whose domain name is “yefangzhou1997.monster”. 
+Besides, Python programs are running on the server to fetch daily updated data from IEX Official API to Database Layer.
+Web Service Layer’s domain name is “iex.yefangzhou1997.monster”. API Layer’s domain names are “iexapi.yefangzhou1997.monster” and “iex.yefangzhou1997.monster/api”. 
+Database Layer to is using the default port “:3306” to access from Localhost.

@@ -1,0 +1,11 @@
+use datebaseName;
+
+create table rfem(
+  date date NOT NULL,  
+  open float NOT NULL,  
+  close float NOT NULL,  
+  high float NOT NULL,  
+  low float NOT NULL, 
+  volume float NOT NULL,  
+  PRIMARY KEY (`date`)
+);

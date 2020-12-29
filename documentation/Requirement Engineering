@@ -1,0 +1,10 @@
+1.	The system should daily update stock data from IEX.
+2.	The system should always keep the history stock data.
+3.	The stock data includes “date”, “open”, close”, “high”, “low”, “volume”.
+4.	The system should be able to generate statistical information automatically.
+5.	The statistical information includes max price, min price, average price, mean price.
+6.	The system should have restful APIs.
+7.	The system should have a graphical user interface.
+8.	The system should be able to generate charts based on the data automatically.
+Product requirement: The system shall be available to all people 24/7. 
+Organizational requirement: Users of the system shall authenticate themselves using their emails.

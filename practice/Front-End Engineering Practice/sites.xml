@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.45.1" platform="windows">
+	<Servers>
+		<Server>
+			<Host>eve.kean.edu</Host>
+			<Port>80</Port>
+			<Protocol>2</Protocol>
+			<Type>0</Type>
+			<User>sergeach</User>
+			<Pass encoding="base64">NDYyMTcz</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir>C:\Users\CDS\Desktop\Fall 2019\Software Engineering\Website</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
